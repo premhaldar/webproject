@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(29, 67, 179);
+    
+}
+.cent{
+    margin: 0 auto;
+    margin-top: 150px;
+    height: 400px;
+    width: 600px;
+    background: salmon;
+    padding-top: 10px;
+}
+
+.singlediv{
+    width: 80%;
+    margin: 5px;
+}
+
+.pad1{
+    margin: 4px;
+    width: 38%;
+}
+.maincent{
+    margin: 0 auto;
+    height: 400px;
+    width: 380px;
+}

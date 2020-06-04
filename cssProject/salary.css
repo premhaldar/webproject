@@ -1,0 +1,25 @@
+.table{
+    border: rgb(247, 236, 236);
+    height: 500px;
+    width: 800px;
+    margin: 0 auto}
+.top{
+    background-color: black;
+    color: white;
+    font-style: inherit;}
+.color1{
+    background-color: rgb(192, 185, 174);}
+.color2{
+    background-color: white;}
+.color3{
+    background-color: rgb(168, 164, 164);}
+.color4{
+    background-color: white;}
+.color5{
+    background-color: rgb(190, 183, 183);}
+.back{
+    background-color: rgb(62, 111, 247);
+    ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;}
